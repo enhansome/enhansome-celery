@@ -1,0 +1,378 @@
+{
+  "items": [
+    {
+      "description": "General Celery related items.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Celery GitHub",
+          "description": "Celery source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:55:09Z",
+            "owner": "celery",
+            "repo": "celery",
+            "stars": 28784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celery-tasks-checklist",
+          "description": "Useful checklist for building great Celery tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-07T12:57:27Z",
+            "owner": "vintasoftware",
+            "repo": "celery-tasks-checklist",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flower",
+          "description": "Web-based tool for managing and administering Celery clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T14:11:49Z",
+            "owner": "mher",
+            "repo": "flower",
+            "stars": 7230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-celery-beat",
+          "description": "Running periodic tasks from Django Admin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:06:06Z",
+            "owner": "celery",
+            "repo": "django-celery-beat",
+            "stars": 1946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-health-check",
+          "description": "Health check plugin for Django. Celery health checks are bundled.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:21:52Z",
+            "owner": "codingjoe",
+            "repo": "django-health-check",
+            "stars": 1422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-celery-results",
+          "description": "Storing task results using the Django ORM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:55:14Z",
+            "owner": "celery",
+            "repo": "django-celery-results",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celery-exporter",
+          "description": "A Prometheus exporter for Celery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jsonnet",
+            "last_commit": "2026-06-09T10:50:25Z",
+            "owner": "danihodovic",
+            "repo": "celery-exporter",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celery-mixin",
+          "description": "Monitoring mixin for Celery. A set of Grafana dashboards and Prometheus rules for Celery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jsonnet",
+            "last_commit": "2026-06-09T10:50:25Z",
+            "owner": "danihodovic",
+            "repo": "celery-exporter",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celery-progress",
+          "description": "Download progress bar for Django/Celery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-30T07:19:25Z",
+            "owner": "czue",
+            "repo": "celery-progress",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clearly",
+          "description": "Console worker monitoring/inspecting/debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-07T02:06:48Z",
+            "owner": "rsalmei",
+            "repo": "clearly",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leek",
+          "description": "Monitoring tool that can monitor multiple brokers with a single container, unlike other tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T19:05:17Z",
+            "owner": "kodless",
+            "repo": "leek",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Celery Insights",
+          "description": "Realtime monitoring tool for Celery clusters with a modern web UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T19:58:43Z",
+            "owner": "danyi1212",
+            "repo": "celery-insights",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Administration and Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RQ",
+          "description": "Simple, lightweight, Python library for creating background jobs, and processing them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T19:13:58Z",
+            "owner": "rq",
+            "repo": "rq",
+            "stars": 10668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TaskTiger",
+          "description": "Task management using Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T04:57:20Z",
+            "owner": "closeio",
+            "repo": "tasktiger",
+            "stars": 1467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WakaQ",
+          "description": "Minimalistic alternative to Celery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T13:44:33Z",
+            "owner": "wakatime",
+            "repo": "wakaq",
+            "stars": 596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiotasks",
+          "description": "Celery-like task queue but for asyncronous functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T14:32:53Z",
+            "owner": "cr0hn",
+            "repo": "aiotasks",
+            "stars": 456
+          }
+        }
+      ],
+      "title": "Analogues"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RedBeat",
+          "description": "Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T23:28:50Z",
+            "owner": "sibson",
+            "repo": "redbeat",
+            "stars": 1050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celery-once",
+          "description": "Prevent multiple execution of celery tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-29T13:26:23Z",
+            "owner": "cameronmaske",
+            "repo": "celery-once",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jobtastic",
+          "description": "Implement progress, status, caching, error handling with simple wrappers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-28T19:57:30Z",
+            "owner": "PolicyStat",
+            "repo": "jobtastic",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celery-director",
+          "description": "YAML workflows for Celery tasks and WebUI to run them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-22T13:28:15Z",
+            "owner": "ovh",
+            "repo": "celery-director",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selinon",
+          "description": "Advanced flow control with dynamic task scheduling and declarative YAML configs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-29T10:46:23Z",
+            "owner": "selinon",
+            "repo": "selinon",
+            "stars": 315
+          }
+        }
+      ],
+      "title": "Task flow and organization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gocelery",
+          "description": "Go Client/Server for Celery Distributed Task Queue.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-12T10:17:12Z",
+            "owner": "gocelery",
+            "repo": "gocelery",
+            "stars": 2484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rusty Celery",
+          "description": "Rust implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-17T09:58:55Z",
+            "owner": "rusty-celery",
+            "repo": "rusty-celery",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celery.node",
+          "description": "Celery client/worker implementation in Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-30T09:44:39Z",
+            "owner": "actumn",
+            "repo": "celery.node",
+            "stars": 305
+          }
+        }
+      ],
+      "title": "Implementation in different languages"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:49:10.248Z",
+    "original_repository": "svfat/awesome-celery",
+    "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
+    "enhanced_repository": "enhansome/enhansome-celery",
+    "enhanced_repository_description": null,
+    "title": "Awesome Celery with stars"
+  }
+}
