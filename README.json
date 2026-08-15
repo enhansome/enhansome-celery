@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:19:13Z",
+            "last_commit": "2026-08-14T17:52:08Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28785
+            "stars": 28784
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T14:11:49Z",
+            "last_commit": "2026-08-14T13:47:44Z",
             "owner": "mher",
             "repo": "flower",
-            "stars": 7230
+            "stars": 7231
           }
         },
         {
@@ -191,7 +191,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T08:13:16Z",
+            "last_commit": "2026-08-15T03:40:30Z",
             "owner": "rq",
             "repo": "rq",
             "stars": 10668
@@ -253,7 +253,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:16:24Z",
+            "last_commit": "2026-08-15T00:32:10Z",
             "owner": "sibson",
             "repo": "redbeat",
             "stars": 1050
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:42:05.992Z",
+    "last_updated": "2026-08-15T07:49:24.851Z",
     "original_repository": "svfat/awesome-celery",
     "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
     "enhanced_repository": "enhansome/enhansome-celery",
