@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T17:52:08Z",
+            "last_commit": "2026-08-16T06:52:43Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28784
+            "stars": 28787
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:47:44Z",
+            "last_commit": "2026-08-16T07:42:52Z",
             "owner": "mher",
             "repo": "flower",
-            "stars": 7231
+            "stars": 7232
           }
         },
         {
@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T17:06:06Z",
+            "last_commit": "2026-08-15T09:08:33Z",
             "owner": "celery",
             "repo": "django-celery-beat",
             "stars": 1946
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-15T03:40:30Z",
             "owner": "rq",
             "repo": "rq",
-            "stars": 10668
+            "stars": 10670
           }
         },
         {
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:49:24.851Z",
+    "last_updated": "2026-08-16T07:51:42.102Z",
     "original_repository": "svfat/awesome-celery",
     "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
     "enhanced_repository": "enhansome/enhansome-celery",
