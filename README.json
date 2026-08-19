@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184460,
             "language": "Python",
-            "last_commit": "2026-08-17T22:14:50Z",
+            "last_commit": "2026-08-18T15:56:43Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28792
+            "stars": 28793
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90044001,
             "language": null,
             "last_commit": "2019-10-07T12:57:27Z",
             "owner": "vintasoftware",
@@ -35,7 +37,7 @@
       "title": "General"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4946406,
             "language": "Python",
             "last_commit": "2026-08-16T08:13:55Z",
             "owner": "mher",
             "repo": "flower",
-            "stars": 7232
+            "stars": 7231
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64884021,
             "language": "Python",
             "last_commit": "2026-08-17T17:14:13Z",
             "owner": "celery",
             "repo": "django-celery-beat",
-            "stars": 1946
+            "stars": 1947
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2238739,
             "language": "Python",
             "last_commit": "2026-08-17T23:23:58Z",
             "owner": "codingjoe",
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64985162,
             "language": "Python",
             "last_commit": "2026-08-17T16:56:20Z",
             "owner": "celery",
             "repo": "django-celery-results",
-            "stars": 785
+            "stars": 786
           }
         },
         {
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332823353,
             "language": "Python",
             "last_commit": "2026-08-16T14:14:17Z",
             "owner": "danihodovic",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 332823353,
             "language": "Python",
             "last_commit": "2026-08-16T14:14:17Z",
             "owner": "danihodovic",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118240346,
             "language": "Python",
             "last_commit": "2025-01-30T07:19:25Z",
             "owner": "czue",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88241992,
             "language": "Python",
             "last_commit": "2022-06-07T02:06:48Z",
             "owner": "rsalmei",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295154233,
             "language": "TypeScript",
             "last_commit": "2026-06-16T19:05:17Z",
             "owner": "kodless",
@@ -170,18 +181,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626629362,
             "language": "TypeScript",
             "last_commit": "2026-08-17T20:21:34Z",
             "owner": "danyi1212",
             "repo": "celery-insights",
-            "stars": 101
+            "stars": 102
           }
         }
       ],
       "title": "Administration and Monitoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -190,11 +202,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2771544,
             "language": "Python",
             "last_commit": "2026-08-17T19:32:21Z",
             "owner": "rq",
             "repo": "rq",
-            "stars": 10669
+            "stars": 10668
           }
         },
         {
@@ -204,8 +217,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35581334,
             "language": "Python",
-            "last_commit": "2026-08-17T18:55:42Z",
+            "last_commit": "2026-08-18T15:56:54Z",
             "owner": "closeio",
             "repo": "tasktiger",
             "stars": 1467
@@ -218,11 +232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529595070,
             "language": "Python",
             "last_commit": "2026-05-21T13:44:33Z",
             "owner": "wakatime",
             "repo": "wakaq",
-            "stars": 596
+            "stars": 595
           }
         },
         {
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79237710,
             "language": "Python",
             "last_commit": "2025-12-15T14:32:53Z",
             "owner": "cr0hn",
@@ -243,7 +259,7 @@
       "title": "Analogues"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41076741,
             "language": "Python",
             "last_commit": "2026-08-15T00:32:10Z",
             "owner": "sibson",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29533407,
             "language": "Python",
             "last_commit": "2023-08-29T13:26:23Z",
             "owner": "cameronmaske",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5169365,
             "language": "Python",
             "last_commit": "2025-04-28T19:57:30Z",
             "owner": "PolicyStat",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237214292,
             "language": "Python",
             "last_commit": "2025-04-22T13:28:15Z",
             "owner": "ovh",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64480236,
             "language": "Python",
             "last_commit": "2025-03-29T10:46:23Z",
             "owner": "selinon",
@@ -319,7 +340,7 @@
       "title": "Task flow and organization"
     },
     {
-      "description": "",
+      "description": "Contributions are always welcome! Read the contribution guidelines first.",
       "items": [
         {
           "node_type": "item",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62852742,
             "language": "Go",
             "last_commit": "2023-09-12T10:17:12Z",
             "owner": "gocelery",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232664662,
             "language": "Rust",
             "last_commit": "2024-06-17T09:58:55Z",
             "owner": "rusty-celery",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209248117,
             "language": "TypeScript",
             "last_commit": "2024-05-30T09:44:39Z",
             "owner": "actumn",
@@ -368,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:59:47.128Z",
+    "last_updated": "2026-08-19T08:00:17.514Z",
     "original_repository": "svfat/awesome-celery",
     "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
     "enhanced_repository": "enhansome/enhansome-celery",
