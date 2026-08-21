@@ -12,10 +12,10 @@
             "archived": false,
             "id": 184460,
             "language": "Python",
-            "last_commit": "2026-08-18T15:56:43Z",
+            "last_commit": "2026-08-20T16:55:48Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28799
+            "stars": 28803
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 64884021,
             "language": "Python",
-            "last_commit": "2026-08-17T17:14:13Z",
+            "last_commit": "2026-08-20T16:15:05Z",
             "owner": "celery",
             "repo": "django-celery-beat",
             "stars": 1949
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T08:43:13Z",
             "owner": "codingjoe",
             "repo": "django-health-check",
-            "stars": 1421
+            "stars": 1422
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-17T19:32:21Z",
             "owner": "rq",
             "repo": "rq",
-            "stars": 10668
+            "stars": 10669
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:03:01.959Z",
+    "last_updated": "2026-08-21T08:02:55.725Z",
     "original_repository": "svfat/awesome-celery",
     "original_repository_id": 576214858,
     "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
