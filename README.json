@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T16:55:48Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28803
+            "stars": 28810
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-16T08:13:55Z",
             "owner": "mher",
             "repo": "flower",
-            "stars": 7231
+            "stars": 7232
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 64884021,
             "language": "Python",
-            "last_commit": "2026-08-20T16:15:05Z",
+            "last_commit": "2026-08-21T13:07:04Z",
             "owner": "celery",
             "repo": "django-celery-beat",
-            "stars": 1949
+            "stars": 1950
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 2238739,
             "language": "Python",
-            "last_commit": "2026-08-19T08:43:13Z",
+            "last_commit": "2026-08-21T21:02:19Z",
             "owner": "codingjoe",
             "repo": "django-health-check",
             "stars": 1422
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 332823353,
             "language": "Python",
-            "last_commit": "2026-08-16T14:14:17Z",
+            "last_commit": "2026-08-21T08:36:02Z",
             "owner": "danihodovic",
             "repo": "celery-exporter",
-            "stars": 556
+            "stars": 559
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 332823353,
             "language": "Python",
-            "last_commit": "2026-08-16T14:14:17Z",
+            "last_commit": "2026-08-21T08:36:02Z",
             "owner": "danihodovic",
             "repo": "celery-exporter",
-            "stars": 556
+            "stars": 559
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-17T19:32:21Z",
             "owner": "rq",
             "repo": "rq",
-            "stars": 10669
+            "stars": 10670
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-18T15:56:54Z",
             "owner": "closeio",
             "repo": "tasktiger",
-            "stars": 1467
+            "stars": 1466
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:02:55.725Z",
+    "last_updated": "2026-08-22T07:52:10.525Z",
     "original_repository": "svfat/awesome-celery",
     "original_repository_id": 576214858,
     "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
