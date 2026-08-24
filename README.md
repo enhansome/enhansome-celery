@@ -14,14 +14,14 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,812 | 🐛 795 | 🌐 Python | 📅 2026-08-22 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,816 | 🐛 797 | 🌐 Python | 📅 2026-08-22 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
 
 ## Administration and Monitoring
 
-* [Flower](https://github.com/mher/flower) ⭐ 7,230 | 🐛 157 | 🌐 Python | 📅 2026-08-16 - Web-based tool for managing and administering Celery clusters.
+* [Flower](https://github.com/mher/flower) ⭐ 7,231 | 🐛 156 | 🌐 Python | 📅 2026-08-16 - Web-based tool for managing and administering Celery clusters.
 * [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,950 | 🐛 154 | 🌐 Python | 📅 2026-08-22 - Running periodic tasks from Django Admin.
 * [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,422 | 🐛 1 | 🌐 Python | 📅 2026-08-21 - Health check plugin for Django. Celery health checks are bundled.
 * [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 786 | 🐛 61 | 🌐 Python | 📅 2026-08-17 - Storing task results using the Django ORM.
@@ -57,4 +57,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
