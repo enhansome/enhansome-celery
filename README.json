@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T14:29:20Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28816
+            "stars": 28817
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-16T08:13:55Z",
             "owner": "mher",
             "repo": "flower",
-            "stars": 7231
+            "stars": 7234
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-22T14:17:04Z",
             "owner": "rq",
             "repo": "rq",
-            "stars": 10670
+            "stars": 10671
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:10:07.307Z",
+    "last_updated": "2026-08-24T14:34:12.004Z",
     "original_repository": "svfat/awesome-celery",
     "original_repository_id": 576214858,
     "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
