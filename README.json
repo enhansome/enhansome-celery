@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T22:14:16Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28821
+            "stars": 28822
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:46.724Z",
+    "last_updated": "2026-08-25T08:05:26.732Z",
     "original_repository": "svfat/awesome-celery",
     "original_repository_id": 576214858,
     "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
