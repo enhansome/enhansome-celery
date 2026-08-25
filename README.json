@@ -12,10 +12,10 @@
             "archived": false,
             "id": 184460,
             "language": "Python",
-            "last_commit": "2026-08-22T14:29:20Z",
+            "last_commit": "2026-08-24T22:14:16Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28817
+            "stars": 28821
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 64884021,
             "language": "Python",
-            "last_commit": "2026-08-22T13:34:30Z",
+            "last_commit": "2026-08-24T17:01:49Z",
             "owner": "celery",
             "repo": "django-celery-beat",
             "stars": 1950
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 2238739,
             "language": "Python",
-            "last_commit": "2026-08-21T21:02:19Z",
+            "last_commit": "2026-08-25T05:33:38Z",
             "owner": "codingjoe",
             "repo": "django-health-check",
             "stars": 1422
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 626629362,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:21:34Z",
+            "last_commit": "2026-08-24T19:58:20Z",
             "owner": "danyi1212",
             "repo": "celery-insights",
-            "stars": 102
+            "stars": 103
           }
         }
       ],
@@ -204,10 +204,10 @@
             "archived": false,
             "id": 2771544,
             "language": "Python",
-            "last_commit": "2026-08-22T14:17:04Z",
+            "last_commit": "2026-08-24T19:14:13Z",
             "owner": "rq",
             "repo": "rq",
-            "stars": 10671
+            "stars": 10670
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:12.004Z",
+    "last_updated": "2026-08-25T06:23:46.724Z",
     "original_repository": "svfat/awesome-celery",
     "original_repository_id": 576214858,
     "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
