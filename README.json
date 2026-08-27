@@ -12,10 +12,10 @@
             "archived": false,
             "id": 184460,
             "language": "Python",
-            "last_commit": "2026-08-26T22:12:46Z",
+            "last_commit": "2026-08-27T18:16:25Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28826
+            "stars": 28828
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-16T08:13:55Z",
             "owner": "mher",
             "repo": "flower",
-            "stars": 7234
+            "stars": 7235
           }
         },
         {
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:51.233Z",
+    "last_updated": "2026-08-27T18:20:32.028Z",
     "original_repository_info": {
       "archived": false,
       "id": 576214858,
