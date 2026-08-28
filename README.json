@@ -12,11 +12,12 @@
             "archived": false,
             "id": 184460,
             "language": "Python",
-            "last_commit": "2026-08-27T18:16:25Z",
+            "last_commit": "2026-08-27T22:12:46Z",
             "owner": "celery",
             "repo": "celery",
-            "stars": 28828
-          }
+            "stars": 28834
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "vintasoftware",
             "repo": "celery-tasks-checklist",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         }
       ],
       "title": "General"
@@ -52,7 +54,8 @@
             "owner": "mher",
             "repo": "flower",
             "stars": 7235
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 64884021,
             "language": "Python",
-            "last_commit": "2026-08-24T17:01:49Z",
+            "last_commit": "2026-08-28T13:46:00Z",
             "owner": "celery",
             "repo": "django-celery-beat",
             "stars": 1950
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "codingjoe",
             "repo": "django-health-check",
             "stars": 1422
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "celery",
             "repo": "django-celery-results",
             "stars": 786
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "danihodovic",
             "repo": "celery-exporter",
             "stars": 559
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "danihodovic",
             "repo": "celery-exporter",
             "stars": 559
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "czue",
             "repo": "celery-progress",
             "stars": 497
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "rsalmei",
             "repo": "clearly",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "kodless",
             "repo": "leek",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "danyi1212",
             "repo": "celery-insights",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         }
       ],
       "title": "Administration and Monitoring"
@@ -207,8 +219,9 @@
             "last_commit": "2026-08-24T19:14:13Z",
             "owner": "rq",
             "repo": "rq",
-            "stars": 10671
-          }
+            "stars": 10672
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "closeio",
             "repo": "tasktiger",
             "stars": 1467
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "wakatime",
             "repo": "wakaq",
             "stars": 594
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "cr0hn",
             "repo": "aiotasks",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         }
       ],
       "title": "Analogues"
@@ -273,8 +289,9 @@
             "last_commit": "2026-08-15T00:32:10Z",
             "owner": "sibson",
             "repo": "redbeat",
-            "stars": 1050
-          }
+            "stars": 1051
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "cameronmaske",
             "repo": "celery-once",
             "stars": 689
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "PolicyStat",
             "repo": "jobtastic",
             "stars": 647
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "ovh",
             "repo": "celery-director",
             "stars": 553
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "selinon",
             "repo": "selinon",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         }
       ],
       "title": "Task flow and organization"
@@ -355,7 +376,8 @@
             "owner": "gocelery",
             "repo": "gocelery",
             "stars": 2484
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "rusty-celery",
             "repo": "rusty-celery",
             "stars": 878
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         },
         {
           "node_type": "item",
@@ -385,14 +408,15 @@
             "owner": "actumn",
             "repo": "celery.node",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T19:29:58.342Z"
         }
       ],
       "title": "Implementation in different languages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:20:32.028Z",
+    "last_updated": "2026-08-28T19:29:58.342Z",
     "original_repository_info": {
       "archived": false,
       "id": 576214858,
