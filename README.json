@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Task Queue (development branch)",
+            "homepage": "https://docs.celeryq.dev",
             "id": 184460,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T22:12:46Z",
+            "open_issues": 756,
             "owner": "celery",
             "repo": "celery",
-            "stars": 28834
+            "stars": 28836,
+            "topics": [
+              "amqp",
+              "python",
+              "python-library",
+              "python3",
+              "queue-tasks",
+              "queue-workers",
+              "queued-jobs",
+              "redis",
+              "redis-queue",
+              "sqs",
+              "sqs-queue",
+              "task-manager",
+              "task-runner",
+              "task-scheduler"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -26,12 +46,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful checklist for building great Celery tasks.",
+            "homepage": "https://devchecklists.com/celery-tasks-checklist/",
             "id": 90044001,
             "language": null,
+            "license": null,
             "last_commit": "2019-10-07T12:57:27Z",
+            "open_issues": 3,
             "owner": "vintasoftware",
             "repo": "celery-tasks-checklist",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "async-task",
+              "celery-task",
+              "task-queue"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         }
@@ -48,12 +77,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time monitor and web admin for Celery distributed task queue",
+            "homepage": "https://flower.readthedocs.io",
             "id": 4946406,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T08:13:55Z",
+            "open_issues": 156,
             "owner": "mher",
             "repo": "flower",
-            "stars": 7235
+            "stars": 7235,
+            "topics": [
+              "administration",
+              "asynchronous",
+              "celery",
+              "monitoring",
+              "python",
+              "rabbitmq",
+              "redis",
+              "task-queue",
+              "workers"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -64,12 +108,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Celery Periodic Tasks backed by the Django ORM",
+            "homepage": null,
             "id": 64884021,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:46:00Z",
+            "open_issues": 157,
             "owner": "celery",
             "repo": "django-celery-beat",
-            "stars": 1950
+            "stars": 1950,
+            "topics": [
+              "celery",
+              "celery-task",
+              "celerybeat",
+              "django",
+              "django-orm",
+              "python",
+              "python-libary",
+              "python-library",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -80,12 +139,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pluggable health checks for Django applications",
+            "homepage": "https://codingjoe.dev/django-health-check/",
             "id": 2238739,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T05:33:38Z",
+            "open_issues": 1,
             "owner": "codingjoe",
             "repo": "django-health-check",
-            "stars": 1422
+            "stars": 1422,
+            "topics": [
+              "container",
+              "django",
+              "docker",
+              "health-check",
+              "monitoring"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -96,12 +166,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Celery result back end with django",
+            "homepage": null,
             "id": 64985162,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T16:56:20Z",
+            "open_issues": 63,
             "owner": "celery",
             "repo": "django-celery-results",
-            "stars": 786
+            "stars": 786,
+            "topics": [
+              "celery",
+              "django",
+              "django-celery-results",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -112,12 +192,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Prometheus exporter for Celery metrics",
+            "homepage": null,
             "id": 332823353,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T08:36:02Z",
+            "open_issues": 45,
             "owner": "danihodovic",
             "repo": "celery-exporter",
-            "stars": 559
+            "stars": 559,
+            "topics": [
+              "celery",
+              "django",
+              "exporter",
+              "metrics",
+              "prometheus",
+              "rabbitmq",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -128,12 +221,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Prometheus exporter for Celery metrics",
+            "homepage": null,
             "id": 332823353,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T08:36:02Z",
+            "open_issues": 45,
             "owner": "danihodovic",
             "repo": "celery-exporter",
-            "stars": 559
+            "stars": 559,
+            "topics": [
+              "celery",
+              "django",
+              "exporter",
+              "metrics",
+              "prometheus",
+              "rabbitmq",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -144,12 +250,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Drop in, configurable, dependency-free progress bars for your Django/Celery applications.",
+            "homepage": null,
             "id": 118240346,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-30T07:19:25Z",
+            "open_issues": 19,
             "owner": "czue",
             "repo": "celery-progress",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "celery",
+              "django",
+              "hacktoberfest",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -160,12 +276,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clearly see and debug your celery cluster in real time!",
+            "homepage": null,
             "id": 88241992,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-07T02:06:48Z",
+            "open_issues": 8,
             "owner": "rsalmei",
             "repo": "clearly",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "asynchronous",
+              "celery",
+              "distributed",
+              "flower",
+              "monitor",
+              "monitoring-tool",
+              "python",
+              "queue",
+              "real-time",
+              "realtime",
+              "task"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -176,12 +309,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Celery Tasks Monitoring Tool",
+            "homepage": "https://tryleek.com",
             "id": 295154233,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-16T19:05:17Z",
+            "open_issues": 18,
             "owner": "kodless",
             "repo": "leek",
-            "stars": 205
+            "stars": 205,
+            "topics": [
+              "celery",
+              "distributed",
+              "flower",
+              "monitor",
+              "monitoring-tool",
+              "python",
+              "queue",
+              "rabbitmq",
+              "redis",
+              "task",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -192,12 +342,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-Time monitoring tool for Celery",
+            "homepage": "https://celery-insights.vercel.app",
             "id": 626629362,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T19:58:20Z",
+            "open_issues": 18,
             "owner": "danyi1212",
             "repo": "celery-insights",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "celery",
+              "python",
+              "rabbitmq",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         }
@@ -214,12 +374,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple job queues for Python",
+            "homepage": "https://python-rq.org",
             "id": 2771544,
             "language": "Python",
-            "last_commit": "2026-08-24T19:14:13Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:50:51Z",
+            "open_issues": 253,
             "owner": "rq",
             "repo": "rq",
-            "stars": 10672
+            "stars": 10672,
+            "topics": [
+              "async",
+              "background-jobs",
+              "delayed-jobs",
+              "delayed-tasks",
+              "job-queue",
+              "python",
+              "redis",
+              "rq",
+              "task",
+              "task-queue",
+              "workers"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -230,12 +407,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python task queue using Redis",
+            "homepage": null,
             "id": 35581334,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:18:40Z",
+            "open_issues": 51,
             "owner": "closeio",
             "repo": "tasktiger",
-            "stars": 1467
+            "stars": 1467,
+            "topics": [
+              "queue",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -246,12 +431,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Background task queue for Python backed by Redis, a super minimal Celery",
+            "homepage": "https://pypi.org/project/WakaQ/",
             "id": 529595070,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-21T13:44:33Z",
+            "open_issues": 0,
             "owner": "wakatime",
             "repo": "wakaq",
-            "stars": 594
+            "stars": 594,
+            "topics": [
+              "async",
+              "asynchronous-tasks",
+              "background-jobs",
+              "celery",
+              "distributed",
+              "job-queue",
+              "job-scheduler",
+              "python",
+              "queue",
+              "redis",
+              "rq",
+              "task-queue",
+              "task-queues",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -262,12 +467,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Celery like task manager that distributes Asyncio coroutines",
+            "homepage": null,
             "id": 79237710,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-15T14:32:53Z",
+            "open_issues": 4,
             "owner": "cr0hn",
             "repo": "aiotasks",
-            "stars": 456
+            "stars": 456,
+            "topics": [
+              "asyncio",
+              "celery",
+              "celery-task",
+              "coroutines",
+              "python",
+              "python-3"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         }
@@ -284,12 +501,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RedBeat is a Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.",
+            "homepage": null,
             "id": 41076741,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T00:32:10Z",
+            "open_issues": 40,
             "owner": "sibson",
             "repo": "redbeat",
-            "stars": 1051
+            "stars": 1051,
+            "topics": [
+              "celery",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -300,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Celery Once allows you to prevent multiple execution and queuing of celery tasks.",
+            "homepage": "https://pypi.python.org/pypi/celery_once/",
             "id": 29533407,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-08-29T13:26:23Z",
+            "open_issues": 48,
             "owner": "cameronmaske",
             "repo": "celery-once",
-            "stars": 689
+            "stars": 689,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -316,12 +546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your user-responsive long-running Celery jobs totally awesomer.",
+            "homepage": "http://policystat.github.com/jobtastic/",
             "id": 5169365,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-28T19:57:30Z",
+            "open_issues": 36,
             "owner": "PolicyStat",
             "repo": "jobtastic",
-            "stars": 647
+            "stars": 647,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -332,12 +567,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and rapid framework to build workflows with Celery",
+            "homepage": "https://ovh.github.io/celery-director/",
             "id": 237214292,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-04-22T13:28:15Z",
+            "open_issues": 17,
             "owner": "ovh",
             "repo": "celery-director",
-            "stars": 553
+            "stars": 553,
+            "topics": [
+              "celery",
+              "python",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -348,12 +592,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " An advanced distributed task flow management on top of Celery ",
+            "homepage": "https://selinon.readthedocs.io/",
             "id": 64480236,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-29T10:46:23Z",
+            "open_issues": 20,
             "owner": "selinon",
             "repo": "selinon",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "big-data",
+              "celery",
+              "distributed-computing",
+              "flow-management",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2021",
+              "kubernetes",
+              "openshift",
+              "python",
+              "schedule-tasks",
+              "selinon",
+              "task",
+              "workflow-management",
+              "workflow-management-system",
+              "workflow-scheduler"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         }
@@ -370,12 +636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Celery Distributed Task Queue in Go",
+            "homepage": null,
             "id": 62852742,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-12T10:17:12Z",
+            "open_issues": 57,
             "owner": "gocelery",
             "repo": "gocelery",
-            "stars": 2484
+            "stars": 2484,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -386,12 +657,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦀 Rust implementation of Celery for producing and consuming background tasks",
+            "homepage": "https://rusty-celery.github.io",
             "id": 232664662,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-17T09:58:55Z",
+            "open_issues": 62,
             "owner": "rusty-celery",
             "repo": "rusty-celery",
-            "stars": 878
+            "stars": 878,
+            "topics": [
+              "celery",
+              "celery-workers",
+              "rabbitmq",
+              "redis",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         },
@@ -402,12 +684,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Celery task queue client/worker for nodejs",
+            "homepage": "https://celery-node.js.org",
             "id": 209248117,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-30T09:44:39Z",
+            "open_issues": 47,
             "owner": "actumn",
             "repo": "celery.node",
-            "stars": 305
+            "stars": 305,
+            "topics": [
+              "amqp",
+              "background",
+              "background-jobs",
+              "celery",
+              "celery-client",
+              "celery-protocol",
+              "celery-workers",
+              "job-queue",
+              "queue",
+              "queue-workers",
+              "queued-jobs",
+              "task-manager",
+              "task-queue",
+              "task-runner",
+              "worker",
+              "worker-queue",
+              "workers"
+            ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
         }
@@ -416,15 +721,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:29:58.342Z",
+    "last_updated": "2026-08-29T04:50:54.418Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Celery (distributed task queue)",
+      "homepage": null,
       "id": 576214858,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-05-09T10:28:49Z",
+      "open_issues": 2,
       "owner": "svfat",
       "repo": "awesome-celery",
-      "stars": 215
+      "stars": 215,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
     "enhanced_repository": "enhansome/enhansome-celery",
