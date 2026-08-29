@@ -14,7 +14,7 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,836 | 🐛 756 | 🌐 Python | 📅 2026-08-27 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,836 | 🐛 759 | 🌐 Python | 📅 2026-08-29 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
@@ -34,7 +34,7 @@ General Celery related items.
 
 ## Analogues
 
-* [RQ](https://github.com/rq/rq) ⭐ 10,672 | 🐛 253 | 🌐 Python | 📅 2026-08-29 - Simple, lightweight, Python library for creating background jobs, and processing them.
+* [RQ](https://github.com/rq/rq) ⭐ 10,672 | 🐛 252 | 🌐 Python | 📅 2026-08-29 - Simple, lightweight, Python library for creating background jobs, and processing them.
 * [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,467 | 🐛 51 | 🌐 Python | 📅 2026-08-26 - Task management using Redis.
 * [WakaQ](https://github.com/wakatime/wakaq) ⭐ 594 | 🐛 0 | 🌐 Python | 📅 2026-05-21 - Minimalistic alternative to Celery.
 * [aiotasks](https://github.com/cr0hn/aiotasks) ⭐ 456 | 🐛 4 | 🌐 Python | 📅 2025-12-15 - Celery-like task queue but for asyncronous functions.
@@ -50,7 +50,7 @@ General Celery related items.
 ## Implementation in different languages
 
 * [gocelery](https://github.com/gocelery/gocelery) ⭐ 2,484 | 🐛 57 | 🌐 Go | 📅 2023-09-12 - Go Client/Server for Celery Distributed Task Queue.
-* [Rusty Celery](https://github.com/rusty-celery/rusty-celery) ⭐ 878 | 🐛 62 | 🌐 Rust | 📅 2024-06-17 - Rust implementation.
+* [Rusty Celery](https://github.com/rusty-celery/rusty-celery) ⭐ 879 | 🐛 62 | 🌐 Rust | 📅 2024-06-17 - Rust implementation.
 * [celery.node](https://github.com/actumn/celery.node) ⭐ 305 | 🐛 47 | 🌐 TypeScript | 📅 2024-05-30 - Celery client/worker implementation in Node.js.
 
 Contributions are always welcome! Read the [contribution guidelines](contributing.md) first.
