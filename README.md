@@ -14,7 +14,7 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,853 | 🐛 745 | 🌐 Python | 📅 2026-09-02 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,854 | 🐛 747 | 🌐 Python | 📅 2026-09-03 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
@@ -22,11 +22,11 @@ General Celery related items.
 ## Administration and Monitoring
 
 * [Flower](https://github.com/mher/flower) ⭐ 7,239 | 🐛 156 | 🌐 Python | 📅 2026-08-16 - Web-based tool for managing and administering Celery clusters.
-* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,951 | 🐛 154 | 🌐 Python | 📅 2026-08-31 - Running periodic tasks from Django Admin.
+* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,951 | 🐛 154 | 🌐 Python | 📅 2026-09-02 - Running periodic tasks from Django Admin.
 * [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,422 | 🐛 2 | 🌐 Python | 📅 2026-08-31 - Health check plugin for Django. Celery health checks are bundled.
-* [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 786 | 🐛 63 | 🌐 Python | 📅 2026-08-31 - Storing task results using the Django ORM.
-* [celery-exporter](https://github.com/danihodovic/celery-exporter) ⭐ 559 | 🐛 45 | 🌐 Python | 📅 2026-08-31 - A Prometheus exporter for Celery.
-* [celery-mixin](https://github.com/danihodovic/celery-exporter/tree/master/celery-mixin) ⭐ 559 | 🐛 45 | 🌐 Python | 📅 2026-08-31 - Monitoring mixin for Celery. A set of Grafana dashboards and Prometheus rules for Celery.
+* [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 785 | 🐛 63 | 🌐 Python | 📅 2026-08-31 - Storing task results using the Django ORM.
+* [celery-exporter](https://github.com/danihodovic/celery-exporter) ⭐ 560 | 🐛 45 | 🌐 Python | 📅 2026-08-31 - A Prometheus exporter for Celery.
+* [celery-mixin](https://github.com/danihodovic/celery-exporter/tree/master/celery-mixin) ⭐ 560 | 🐛 45 | 🌐 Python | 📅 2026-08-31 - Monitoring mixin for Celery. A set of Grafana dashboards and Prometheus rules for Celery.
 * [celery-progress](https://github.com/czue/celery-progress) ⭐ 497 | 🐛 19 | 🌐 Python | 📅 2025-01-30 - Download progress bar for Django/Celery.
 * [clearly](https://github.com/rsalmei/clearly) ⭐ 411 | 🐛 8 | 🌐 Python | 📅 2022-06-07 - Console worker monitoring/inspecting/debugging.
 * [Leek](https://github.com/kodless/leek) ⭐ 205 | 🐛 18 | 🌐 TypeScript | 📅 2026-06-16 - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools.
@@ -50,11 +50,11 @@ General Celery related items.
 ## Implementation in different languages
 
 * [gocelery](https://github.com/gocelery/gocelery) ⭐ 2,485 | 🐛 57 | 🌐 Go | 📅 2023-09-12 - Go Client/Server for Celery Distributed Task Queue.
-* [Rusty Celery](https://github.com/rusty-celery/rusty-celery) ⭐ 879 | 🐛 62 | 🌐 Rust | 📅 2024-06-17 - Rust implementation.
+* [Rusty Celery](https://github.com/rusty-celery/rusty-celery) ⭐ 878 | 🐛 62 | 🌐 Rust | 📅 2024-06-17 - Rust implementation.
 * [celery.node](https://github.com/actumn/celery.node) ⭐ 305 | 🐛 47 | 🌐 TypeScript | 📅 2024-05-30 - Celery client/worker implementation in Node.js.
 
 Contributions are always welcome! Read the [contribution guidelines](contributing.md) first.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
