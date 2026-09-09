@@ -15,11 +15,11 @@
             "id": 184460,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T08:07:51Z",
+            "last_commit": "2026-09-09T09:58:41Z",
             "open_issues": 728,
             "owner": "celery",
             "repo": "celery",
-            "stars": 28869,
+            "stars": 28871,
             "topics": [
               "amqp",
               "python",
@@ -83,10 +83,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T08:14:53Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "mher",
             "repo": "flower",
-            "stars": 7242,
+            "stars": 7243,
             "topics": [
               "administration",
               "asynchronous",
@@ -201,7 +201,7 @@
             "open_issues": 46,
             "owner": "danihodovic",
             "repo": "celery-exporter",
-            "stars": 561,
+            "stars": 562,
             "topics": [
               "celery",
               "django",
@@ -230,7 +230,7 @@
             "open_issues": 46,
             "owner": "danihodovic",
             "repo": "celery-exporter",
-            "stars": 561,
+            "stars": 562,
             "topics": [
               "celery",
               "django",
@@ -380,7 +380,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-06T14:42:10Z",
-            "open_issues": 250,
+            "open_issues": 251,
             "owner": "rq",
             "repo": "rq",
             "stars": 10678,
@@ -472,11 +472,11 @@
             "id": 79237710,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2025-12-15T14:32:53Z",
+            "last_commit": "2026-09-08T12:28:10Z",
             "open_issues": 4,
             "owner": "cr0hn",
             "repo": "aiotasks",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "asyncio",
               "celery",
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:12:40.736Z",
+    "last_updated": "2026-09-09T12:24:19.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
