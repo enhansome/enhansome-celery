@@ -14,37 +14,37 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,874 | 🐛 729 | 🌐 Python | 📅 2026-09-10 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,875 | 🐛 734 | 🌐 Python | 📅 2026-09-10 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
 
 ## Administration and Monitoring
 
-* [Flower](https://github.com/mher/flower) ⭐ 7,243 | 🐛 58 | 🌐 Python | 📅 2026-09-06 - Web-based tool for managing and administering Celery clusters.
-* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,953 | 🐛 154 | 🌐 Python | 📅 2026-09-07 - Running periodic tasks from Django Admin.
-* [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,423 | 🐛 1 | 🌐 Python | 📅 2026-09-08 - Health check plugin for Django. Celery health checks are bundled.
-* [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 786 | 🐛 63 | 🌐 Python | 📅 2026-08-31 - Storing task results using the Django ORM.
+* [Flower](https://github.com/mher/flower) ⭐ 7,243 | 🐛 56 | 🌐 Python | 📅 2026-09-06 - Web-based tool for managing and administering Celery clusters.
+* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,954 | 🐛 154 | 🌐 Python | 📅 2026-09-07 - Running periodic tasks from Django Admin.
+* [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,424 | 🐛 1 | 🌐 Python | 📅 2026-09-08 - Health check plugin for Django. Celery health checks are bundled.
+* [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 787 | 🐛 63 | 🌐 Python | 📅 2026-08-31 - Storing task results using the Django ORM.
 * [celery-exporter](https://github.com/danihodovic/celery-exporter) ⭐ 562 | 🐛 45 | 🌐 Python | 📅 2026-08-31 - A Prometheus exporter for Celery.
 * [celery-mixin](https://github.com/danihodovic/celery-exporter/tree/master/celery-mixin) ⭐ 562 | 🐛 45 | 🌐 Python | 📅 2026-08-31 - Monitoring mixin for Celery. A set of Grafana dashboards and Prometheus rules for Celery.
 * [celery-progress](https://github.com/czue/celery-progress) ⭐ 497 | 🐛 19 | 🌐 Python | 📅 2025-01-30 - Download progress bar for Django/Celery.
-* [clearly](https://github.com/rsalmei/clearly) ⭐ 411 | 🐛 8 | 🌐 Python | 📅 2022-06-07 - Console worker monitoring/inspecting/debugging.
+* [clearly](https://github.com/rsalmei/clearly) ⭐ 412 | 🐛 8 | 🌐 Python | 📅 2022-06-07 - Console worker monitoring/inspecting/debugging.
 * [Leek](https://github.com/kodless/leek) ⭐ 205 | 🐛 18 | 🌐 TypeScript | 📅 2026-06-16 - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools.
 * [Celery Insights](https://github.com/danyi1212/celery-insights) ⭐ 103 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-07 - Realtime monitoring tool for Celery clusters with a modern web UI.
 
 ## Analogues
 
-* [RQ](https://github.com/rq/rq) ⭐ 10,680 | 🐛 252 | 🌐 Python | 📅 2026-09-06 - Simple, lightweight, Python library for creating background jobs, and processing them.
-* [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,466 | 🐛 50 | 🌐 Python | 📅 2026-08-31 - Task management using Redis.
+* [RQ](https://github.com/rq/rq) ⭐ 10,682 | 🐛 252 | 🌐 Python | 📅 2026-09-11 - Simple, lightweight, Python library for creating background jobs, and processing them.
+* [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,467 | 🐛 50 | 🌐 Python | 📅 2026-08-31 - Task management using Redis.
 * [WakaQ](https://github.com/wakatime/wakaq) ⭐ 594 | 🐛 0 | 🌐 Python | 📅 2026-05-21 - Minimalistic alternative to Celery.
 * [aiotasks](https://github.com/cr0hn/aiotasks) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - Celery-like task queue but for asyncronous functions.
 
 ## Task flow and organization
 
-* [RedBeat](https://github.com/sibson/redbeat) ⭐ 1,051 | 🐛 41 | 🌐 Python | 📅 2026-09-06 - Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
+* [RedBeat](https://github.com/sibson/redbeat) ⭐ 1,051 | 🐛 41 | 🌐 Python | 📅 2026-09-10 - Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 * [celery-once](https://github.com/cameronmaske/celery-once) ⭐ 689 | 🐛 48 | 🌐 Python | 📅 2023-08-29 - Prevent multiple execution of celery tasks.
 * [Jobtastic](https://github.com/PolicyStat/jobtastic) ⭐ 647 | 🐛 36 | 🌐 Python | 📅 2025-04-28 - Implement progress, status, caching, error handling with simple wrappers.
-* [celery-director](https://github.com/ovh/celery-director) ⭐ 552 | 🐛 17 | 🌐 Python | 📅 2025-04-22 - YAML workflows for Celery tasks and WebUI to run them.
+* [celery-director](https://github.com/ovh/celery-director) ⭐ 553 | 🐛 17 | 🌐 Python | 📅 2025-04-22 - YAML workflows for Celery tasks and WebUI to run them.
 * [Selinon](https://github.com/selinon/selinon) ⭐ 315 | 🐛 20 | 🌐 Python | 📅 2025-03-29 - Advanced flow control with dynamic task scheduling and declarative YAML configs.
 
 ## Implementation in different languages
@@ -57,4 +57,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
