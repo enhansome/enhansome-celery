@@ -15,8 +15,8 @@
             "id": 184460,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T09:04:51Z",
-            "open_issues": 733,
+            "last_commit": "2026-09-13T12:00:14Z",
+            "open_issues": 720,
             "owner": "celery",
             "repo": "celery",
             "stars": 28876,
@@ -82,11 +82,11 @@
             "id": 4946406,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T06:57:24Z",
-            "open_issues": 54,
+            "last_commit": "2026-09-13T08:27:22Z",
+            "open_issues": 48,
             "owner": "mher",
             "repo": "flower",
-            "stars": 7242,
+            "stars": 7241,
             "topics": [
               "administration",
               "asynchronous",
@@ -113,11 +113,11 @@
             "id": 64884021,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T17:04:14Z",
-            "open_issues": 154,
+            "last_commit": "2026-09-12T12:54:21Z",
+            "open_issues": 152,
             "owner": "celery",
             "repo": "django-celery-beat",
-            "stars": 1954,
+            "stars": 1953,
             "topics": [
               "celery",
               "celery-task",
@@ -175,7 +175,7 @@
             "open_issues": 63,
             "owner": "celery",
             "repo": "django-celery-results",
-            "stars": 787,
+            "stars": 786,
             "topics": [
               "celery",
               "django",
@@ -383,7 +383,7 @@
             "open_issues": 253,
             "owner": "rq",
             "repo": "rq",
-            "stars": 10683,
+            "stars": 10686,
             "topics": [
               "async",
               "background-jobs",
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:40:06.187Z",
+    "last_updated": "2026-09-13T12:47:25.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
