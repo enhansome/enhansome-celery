@@ -15,11 +15,11 @@
             "id": 184460,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T04:13:59Z",
-            "open_issues": 720,
+            "last_commit": "2026-09-16T11:44:36Z",
+            "open_issues": 723,
             "owner": "celery",
             "repo": "celery",
-            "stars": 28890,
+            "stars": 28893,
             "topics": [
               "amqp",
               "python",
@@ -83,10 +83,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-13T08:27:22Z",
-            "open_issues": 48,
+            "open_issues": 47,
             "owner": "mher",
             "repo": "flower",
-            "stars": 7241,
+            "stars": 7238,
             "topics": [
               "administration",
               "asynchronous",
@@ -117,7 +117,7 @@
             "open_issues": 152,
             "owner": "celery",
             "repo": "django-celery-beat",
-            "stars": 1953,
+            "stars": 1951,
             "topics": [
               "celery",
               "celery-task",
@@ -148,7 +148,7 @@
             "open_issues": 1,
             "owner": "codingjoe",
             "repo": "django-health-check",
-            "stars": 1423,
+            "stars": 1422,
             "topics": [
               "container",
               "django",
@@ -175,7 +175,7 @@
             "open_issues": 63,
             "owner": "celery",
             "repo": "django-celery-results",
-            "stars": 785,
+            "stars": 784,
             "topics": [
               "celery",
               "django",
@@ -285,7 +285,7 @@
             "open_issues": 8,
             "owner": "rsalmei",
             "repo": "clearly",
-            "stars": 412,
+            "stars": 411,
             "topics": [
               "asynchronous",
               "celery",
@@ -416,7 +416,7 @@
             "open_issues": 50,
             "owner": "closeio",
             "repo": "tasktiger",
-            "stars": 1467,
+            "stars": 1466,
             "topics": [
               "queue",
               "worker"
@@ -555,7 +555,7 @@
             "open_issues": 36,
             "owner": "PolicyStat",
             "repo": "jobtastic",
-            "stars": 647,
+            "stars": 645,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
@@ -601,7 +601,7 @@
             "open_issues": 20,
             "owner": "selinon",
             "repo": "selinon",
-            "stars": 315,
+            "stars": 314,
             "topics": [
               "big-data",
               "celery",
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:45:47.405Z",
+    "last_updated": "2026-09-16T12:40:42.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
