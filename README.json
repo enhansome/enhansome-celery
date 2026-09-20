@@ -15,11 +15,11 @@
             "id": 184460,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T09:03:26Z",
-            "open_issues": 731,
+            "last_commit": "2026-09-20T06:01:23Z",
+            "open_issues": 728,
             "owner": "celery",
             "repo": "celery",
-            "stars": 28898,
+            "stars": 28902,
             "topics": [
               "amqp",
               "python",
@@ -86,7 +86,7 @@
             "open_issues": 48,
             "owner": "mher",
             "repo": "flower",
-            "stars": 7237,
+            "stars": 7238,
             "topics": [
               "administration",
               "asynchronous",
@@ -148,7 +148,7 @@
             "open_issues": 1,
             "owner": "codingjoe",
             "repo": "django-health-check",
-            "stars": 1422,
+            "stars": 1423,
             "topics": [
               "container",
               "django",
@@ -379,11 +379,11 @@
             "id": 2771544,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T19:13:42Z",
-            "open_issues": 257,
+            "last_commit": "2026-09-20T06:38:28Z",
+            "open_issues": 253,
             "owner": "rq",
             "repo": "rq",
-            "stars": 10688,
+            "stars": 10687,
             "topics": [
               "async",
               "background-jobs",
@@ -666,7 +666,7 @@
             "open_issues": 62,
             "owner": "rusty-celery",
             "repo": "rusty-celery",
-            "stars": 877,
+            "stars": 876,
             "topics": [
               "celery",
               "celery-workers",
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:58:48.019Z",
+    "last_updated": "2026-09-20T12:31:48.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
