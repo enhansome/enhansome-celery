@@ -14,7 +14,7 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,913 | 🐛 721 | 🌐 Python | 📅 2026-09-23 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,912 | 🐛 724 | 🌐 Python | 📅 2026-09-23 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
@@ -22,7 +22,7 @@ General Celery related items.
 ## Administration and Monitoring
 
 * [Flower](https://github.com/mher/flower) ⭐ 7,240 | 🐛 36 | 🌐 Python | 📅 2026-09-22 - Web-based tool for managing and administering Celery clusters.
-* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,951 | 🐛 151 | 🌐 Python | 📅 2026-09-22 - Running periodic tasks from Django Admin.
+* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,951 | 🐛 150 | 🌐 Python | 📅 2026-09-23 - Running periodic tasks from Django Admin.
 * [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,424 | 🐛 1 | 🌐 Python | 📅 2026-09-22 - Health check plugin for Django. Celery health checks are bundled.
 * [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 785 | 🐛 64 | 🌐 Python | 📅 2026-08-31 - Storing task results using the Django ORM.
 * [celery-exporter](https://github.com/danihodovic/celery-exporter) ⭐ 564 | 🐛 45 | 🌐 Python | 📅 2026-08-31 - A Prometheus exporter for Celery.
@@ -34,8 +34,8 @@ General Celery related items.
 
 ## Analogues
 
-* [RQ](https://github.com/rq/rq) ⭐ 10,691 | 🐛 255 | 🌐 Python | 📅 2026-09-22 - Simple, lightweight, Python library for creating background jobs, and processing them.
-* [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,466 | 🐛 50 | 🌐 Python | 📅 2026-08-31 - Task management using Redis.
+* [RQ](https://github.com/rq/rq) ⭐ 10,693 | 🐛 255 | 🌐 Python | 📅 2026-09-22 - Simple, lightweight, Python library for creating background jobs, and processing them.
+* [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,466 | 🐛 51 | 🌐 Python | 📅 2026-09-23 - Task management using Redis.
 * [WakaQ](https://github.com/wakatime/wakaq) ⭐ 594 | 🐛 0 | 🌐 Python | 📅 2026-05-21 - Minimalistic alternative to Celery.
 * [aiotasks](https://github.com/cr0hn/aiotasks) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - Celery-like task queue but for asyncronous functions.
 
@@ -45,11 +45,11 @@ General Celery related items.
 * [celery-once](https://github.com/cameronmaske/celery-once) ⭐ 690 | 🐛 48 | 🌐 Python | 📅 2023-08-29 - Prevent multiple execution of celery tasks.
 * [Jobtastic](https://github.com/PolicyStat/jobtastic) ⭐ 645 | 🐛 36 | 🌐 Python | 📅 2025-04-28 - Implement progress, status, caching, error handling with simple wrappers.
 * [celery-director](https://github.com/ovh/celery-director) ⭐ 554 | 🐛 17 | 🌐 Python | 📅 2025-04-22 - YAML workflows for Celery tasks and WebUI to run them.
-* [Selinon](https://github.com/selinon/selinon) ⭐ 314 | 🐛 20 | 🌐 Python | 📅 2025-03-29 - Advanced flow control with dynamic task scheduling and declarative YAML configs.
+* [Selinon](https://github.com/selinon/selinon) ⭐ 314 | 🐛 21 | 🌐 Python | 📅 2025-03-29 - Advanced flow control with dynamic task scheduling and declarative YAML configs.
 
 ## Implementation in different languages
 
-* [gocelery](https://github.com/gocelery/gocelery) ⭐ 2,485 | 🐛 57 | 🌐 Go | 📅 2023-09-12 - Go Client/Server for Celery Distributed Task Queue.
+* [gocelery](https://github.com/gocelery/gocelery) ⭐ 2,486 | 🐛 57 | 🌐 Go | 📅 2023-09-12 - Go Client/Server for Celery Distributed Task Queue.
 * [Rusty Celery](https://github.com/rusty-celery/rusty-celery) ⭐ 877 | 🐛 62 | 🌐 Rust | 📅 2024-06-17 - Rust implementation.
 * [celery.node](https://github.com/actumn/celery.node) ⭐ 305 | 🐛 47 | 🌐 TypeScript | 📅 2024-05-30 - Celery client/worker implementation in Node.js.
 
@@ -57,4 +57,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
