@@ -14,7 +14,7 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,913 | 🐛 733 | 🌐 Python | 📅 2026-09-24 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,915 | 🐛 730 | 🌐 Python | 📅 2026-09-26 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
@@ -22,7 +22,7 @@ General Celery related items.
 ## Administration and Monitoring
 
 * [Flower](https://github.com/mher/flower) ⭐ 7,241 | 🐛 36 | 🌐 Python | 📅 2026-09-22 - Web-based tool for managing and administering Celery clusters.
-* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,951 | 🐛 156 | 🌐 Python | 📅 2026-09-24 - Running periodic tasks from Django Admin.
+* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,951 | 🐛 160 | 🌐 Python | 📅 2026-09-25 - Running periodic tasks from Django Admin.
 * [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,424 | 🐛 1 | 🌐 Python | 📅 2026-09-22 - Health check plugin for Django. Celery health checks are bundled.
 * [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 784 | 🐛 64 | 🌐 Python | 📅 2026-08-31 - Storing task results using the Django ORM.
 * [celery-exporter](https://github.com/danihodovic/celery-exporter) ⭐ 564 | 🐛 45 | 🌐 Python | 📅 2026-08-31 - A Prometheus exporter for Celery.
@@ -35,7 +35,7 @@ General Celery related items.
 ## Analogues
 
 * [RQ](https://github.com/rq/rq) ⭐ 10,694 | 🐛 255 | 🌐 Python | 📅 2026-09-22 - Simple, lightweight, Python library for creating background jobs, and processing them.
-* [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,466 | 🐛 51 | 🌐 Python | 📅 2026-09-24 - Task management using Redis.
+* [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,466 | 🐛 52 | 🌐 Python | 📅 2026-09-25 - Task management using Redis.
 * [WakaQ](https://github.com/wakatime/wakaq) ⭐ 594 | 🐛 0 | 🌐 Python | 📅 2026-05-21 - Minimalistic alternative to Celery.
 * [aiotasks](https://github.com/cr0hn/aiotasks) ⭐ 457 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - Celery-like task queue but for asyncronous functions.
 
@@ -57,4 +57,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
