@@ -14,7 +14,7 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,927 | 🐛 723 | 🌐 Python | 📅 2026-10-01 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 28,929 | 🐛 736 | 🌐 Python | 📅 2026-10-01 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
@@ -22,20 +22,20 @@ General Celery related items.
 ## Administration and Monitoring
 
 * [Flower](https://github.com/mher/flower) ⭐ 7,242 | 🐛 37 | 🌐 Python | 📅 2026-09-22 - Web-based tool for managing and administering Celery clusters.
-* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,952 | 🐛 160 | 🌐 Python | 📅 2026-10-01 - Running periodic tasks from Django Admin.
-* [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,425 | 🐛 1 | 🌐 Python | 📅 2026-10-01 - Health check plugin for Django. Celery health checks are bundled.
-* [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 784 | 🐛 64 | 🌐 Python | 📅 2026-09-28 - Storing task results using the Django ORM.
+* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,952 | 🐛 157 | 🌐 Python | 📅 2026-10-02 - Running periodic tasks from Django Admin.
+* [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,425 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - Health check plugin for Django. Celery health checks are bundled.
+* [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 785 | 🐛 64 | 🌐 Python | 📅 2026-09-28 - Storing task results using the Django ORM.
 * [celery-exporter](https://github.com/danihodovic/celery-exporter) ⭐ 564 | 🐛 45 | 🌐 Python | 📅 2026-09-29 - A Prometheus exporter for Celery.
 * [celery-mixin](https://github.com/danihodovic/celery-exporter/tree/master/celery-mixin) ⭐ 564 | 🐛 45 | 🌐 Python | 📅 2026-09-29 - Monitoring mixin for Celery. A set of Grafana dashboards and Prometheus rules for Celery.
 * [celery-progress](https://github.com/czue/celery-progress) ⭐ 496 | 🐛 19 | 🌐 Python | 📅 2025-01-30 - Download progress bar for Django/Celery.
 * [clearly](https://github.com/rsalmei/clearly) ⭐ 411 | 🐛 8 | 🌐 Python | 📅 2022-06-07 - Console worker monitoring/inspecting/debugging.
 * [Leek](https://github.com/kodless/leek) ⭐ 205 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-16 - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools.
-* [Celery Insights](https://github.com/danyi1212/celery-insights) ⭐ 103 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-28 - Realtime monitoring tool for Celery clusters with a modern web UI.
+* [Celery Insights](https://github.com/danyi1212/celery-insights) ⭐ 103 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-02 - Realtime monitoring tool for Celery clusters with a modern web UI.
 
 ## Analogues
 
-* [RQ](https://github.com/rq/rq) ⭐ 10,695 | 🐛 257 | 🌐 Python | 📅 2026-10-01 - Simple, lightweight, Python library for creating background jobs, and processing them.
-* [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,466 | 🐛 51 | 🌐 Python | 📅 2026-09-28 - Task management using Redis.
+* [RQ](https://github.com/rq/rq) ⭐ 10,695 | 🐛 258 | 🌐 Python | 📅 2026-10-02 - Simple, lightweight, Python library for creating background jobs, and processing them.
+* [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,467 | 🐛 51 | 🌐 Python | 📅 2026-09-28 - Task management using Redis.
 * [WakaQ](https://github.com/wakatime/wakaq) ⭐ 594 | 🐛 0 | 🌐 Python | 📅 2026-05-21 - Minimalistic alternative to Celery.
 * [aiotasks](https://github.com/cr0hn/aiotasks) ⭐ 456 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - Celery-like task queue but for asyncronous functions.
 
@@ -57,4 +57,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
