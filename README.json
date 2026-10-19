@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-18T08:52:37Z",
-            "open_issues": 720,
+            "open_issues": 728,
             "owner": "celery",
             "repo": "celery",
-            "stars": 28995,
+            "stars": 29009,
             "topics": [
               "amqp",
               "python",
@@ -86,7 +86,7 @@
             "open_issues": 38,
             "owner": "mher",
             "repo": "flower",
-            "stars": 7239,
+            "stars": 7238,
             "topics": [
               "administration",
               "asynchronous",
@@ -113,7 +113,7 @@
             "id": 64884021,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T15:27:44Z",
+            "last_commit": "2026-10-19T13:52:04Z",
             "open_issues": 156,
             "owner": "celery",
             "repo": "django-celery-beat",
@@ -412,8 +412,8 @@
             "id": 35581334,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-18T11:12:56Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-19T11:00:26Z",
+            "open_issues": 51,
             "owner": "closeio",
             "repo": "tasktiger",
             "stars": 1468,
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:07:30.160Z",
+    "last_updated": "2026-10-19T14:48:28.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
