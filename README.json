@@ -15,11 +15,11 @@
             "id": 184460,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T07:51:53Z",
-            "open_issues": 736,
+            "last_commit": "2026-10-25T05:51:54Z",
+            "open_issues": 740,
             "owner": "celery",
             "repo": "celery",
-            "stars": 29047,
+            "stars": 29056,
             "topics": [
               "amqp",
               "python",
@@ -86,7 +86,7 @@
             "open_issues": 38,
             "owner": "mher",
             "repo": "flower",
-            "stars": 7239,
+            "stars": 7240,
             "topics": [
               "administration",
               "asynchronous",
@@ -144,8 +144,8 @@
             "id": 2238739,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T18:42:49Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-24T18:46:48Z",
+            "open_issues": 1,
             "owner": "codingjoe",
             "repo": "django-health-check",
             "stars": 1424,
@@ -347,8 +347,8 @@
             "id": 626629362,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T10:41:49Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-24T18:47:31Z",
+            "open_issues": 6,
             "owner": "danyi1212",
             "repo": "celery-insights",
             "stars": 110,
@@ -379,11 +379,11 @@
             "id": 2771544,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T03:18:01Z",
-            "open_issues": 264,
+            "last_commit": "2026-10-25T09:03:34Z",
+            "open_issues": 262,
             "owner": "rq",
             "repo": "rq",
-            "stars": 10698,
+            "stars": 10699,
             "topics": [
               "async",
               "background-jobs",
@@ -476,7 +476,7 @@
             "open_issues": 4,
             "owner": "cr0hn",
             "repo": "aiotasks",
-            "stars": 456,
+            "stars": 455,
             "topics": [
               "asyncio",
               "celery",
@@ -510,7 +510,7 @@
             "open_issues": 43,
             "owner": "sibson",
             "repo": "redbeat",
-            "stars": 1054,
+            "stars": 1053,
             "topics": [
               "celery",
               "redis"
@@ -576,7 +576,7 @@
             "open_issues": 17,
             "owner": "ovh",
             "repo": "celery-director",
-            "stars": 553,
+            "stars": 552,
             "topics": [
               "celery",
               "python",
@@ -645,7 +645,7 @@
             "open_issues": 57,
             "owner": "gocelery",
             "repo": "gocelery",
-            "stars": 2487,
+            "stars": 2488,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:06:49.681Z",
+    "last_updated": "2026-10-25T12:39:43.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
