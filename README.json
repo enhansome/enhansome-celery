@@ -15,11 +15,11 @@
             "id": 184460,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T14:10:58Z",
-            "open_issues": 739,
+            "last_commit": "2026-10-26T22:14:06Z",
+            "open_issues": 743,
             "owner": "celery",
             "repo": "celery",
-            "stars": 29070,
+            "stars": 29079,
             "topics": [
               "amqp",
               "python",
@@ -113,7 +113,7 @@
             "id": 64884021,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T05:57:42Z",
+            "last_commit": "2026-10-26T17:56:49Z",
             "open_issues": 157,
             "owner": "celery",
             "repo": "django-celery-beat",
@@ -144,8 +144,8 @@
             "id": 2238739,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T18:46:48Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-27T08:02:38Z",
+            "open_issues": 3,
             "owner": "codingjoe",
             "repo": "django-health-check",
             "stars": 1425,
@@ -255,7 +255,7 @@
             "id": 118240346,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2025-01-30T07:19:25Z",
+            "last_commit": "2026-10-27T09:48:45Z",
             "open_issues": 19,
             "owner": "czue",
             "repo": "celery-progress",
@@ -301,6 +301,31 @@
             ]
           },
           "first_seen": "2026-08-28T19:29:58.342Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Kanchi",
+          "description": "Real-time Celery task monitoring and management system with a modern web UI and WebSocket-powered live updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A realtime celery task monitoring and management system",
+            "homepage": "https://kanchi.io",
+            "id": 1062750847,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-21T15:48:49Z",
+            "open_issues": 8,
+            "owner": "getkanchi",
+            "repo": "kanchi",
+            "stars": 220,
+            "topics": [
+              "celery",
+              "monitoring",
+              "python"
+            ]
+          },
+          "first_seen": "2026-10-27T13:25:00.476Z"
         },
         {
           "node_type": "item",
@@ -379,8 +404,8 @@
             "id": 2771544,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T06:03:26Z",
-            "open_issues": 260,
+            "last_commit": "2026-10-27T01:47:01Z",
+            "open_issues": 263,
             "owner": "rq",
             "repo": "rq",
             "stars": 10699,
@@ -510,7 +535,7 @@
             "open_issues": 43,
             "owner": "sibson",
             "repo": "redbeat",
-            "stars": 1053,
+            "stars": 1054,
             "topics": [
               "celery",
               "redis"
@@ -721,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:26:15.571Z",
+    "last_updated": "2026-10-27T13:25:00.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
@@ -729,8 +754,8 @@
       "id": 576214858,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2024-05-09T10:28:49Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-27T07:49:44Z",
+      "open_issues": 1,
       "owner": "svfat",
       "repo": "awesome-celery",
       "stars": 216,
@@ -739,7 +764,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "b6d11af2eff402858e9cdfb8a833b01701ca9f67",
+    "original_repository_sha": "cf8bcf0626852b9ef493ab94c8a5d988c9e1c2ea",
     "enhanced_repository": "enhansome/enhansome-celery",
     "enhanced_repository_description": null,
     "title": "Awesome Celery with stars"
