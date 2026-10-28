@@ -14,16 +14,16 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 29,079 | 🐛 743 | 🌐 Python | 📅 2026-10-26 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 29,089 | 🐛 736 | 🌐 Python | 📅 2026-10-28 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
 
 ## Administration and Monitoring
 
-* [Flower](https://github.com/mher/flower) ⭐ 7,240 | 🐛 38 | 🌐 Python | 📅 2026-09-22 - Web-based tool for managing and administering Celery clusters.
-* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,956 | 🐛 157 | 🌐 Python | 📅 2026-10-26 - Running periodic tasks from Django Admin.
-* [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,425 | 🐛 3 | 🌐 Python | 📅 2026-10-27 - Health check plugin for Django. Celery health checks are bundled.
+* [Flower](https://github.com/mher/flower) ⭐ 7,239 | 🐛 38 | 🌐 Python | 📅 2026-09-22 - Web-based tool for managing and administering Celery clusters.
+* [django-celery-beat](https://github.com/celery/django-celery-beat) ⭐ 1,956 | 🐛 161 | 🌐 Python | 📅 2026-10-28 - Running periodic tasks from Django Admin.
+* [django-health-check](https://github.com/revsys/django-health-check) ⭐ 1,424 | 🐛 4 | 🌐 Python | 📅 2026-10-27 - Health check plugin for Django. Celery health checks are bundled.
 * [django-celery-results](https://github.com/celery/django-celery-results) ⭐ 785 | 🐛 67 | 🌐 Python | 📅 2026-10-21 - Storing task results using the Django ORM.
 * [celery-exporter](https://github.com/danihodovic/celery-exporter) ⭐ 566 | 🐛 49 | 🌐 Python | 📅 2026-10-09 - A Prometheus exporter for Celery.
 * [celery-mixin](https://github.com/danihodovic/celery-exporter/tree/master/celery-mixin) ⭐ 566 | 🐛 49 | 🌐 Python | 📅 2026-10-09 - Monitoring mixin for Celery. A set of Grafana dashboards and Prometheus rules for Celery.
@@ -35,7 +35,7 @@ General Celery related items.
 
 ## Analogues
 
-* [RQ](https://github.com/rq/rq) ⭐ 10,699 | 🐛 263 | 🌐 Python | 📅 2026-10-27 - Simple, lightweight, Python library for creating background jobs, and processing them.
+* [RQ](https://github.com/rq/rq) ⭐ 10,698 | 🐛 262 | 🌐 Python | 📅 2026-10-28 - Simple, lightweight, Python library for creating background jobs, and processing them.
 * [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,469 | 🐛 51 | 🌐 Python | 📅 2026-10-19 - Task management using Redis.
 * [WakaQ](https://github.com/wakatime/wakaq) ⭐ 596 | 🐛 0 | 🌐 Python | 📅 2026-05-21 - Minimalistic alternative to Celery.
 * [aiotasks](https://github.com/cr0hn/aiotasks) ⭐ 455 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - Celery-like task queue but for asyncronous functions.
@@ -44,7 +44,7 @@ General Celery related items.
 
 * [RedBeat](https://github.com/sibson/redbeat) ⭐ 1,054 | 🐛 43 | 🌐 Python | 📅 2026-10-09 - Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 * [celery-once](https://github.com/cameronmaske/celery-once) ⭐ 691 | 🐛 48 | 🌐 Python | 📅 2023-08-29 - Prevent multiple execution of celery tasks.
-* [Jobtastic](https://github.com/PolicyStat/jobtastic) ⭐ 645 | 🐛 36 | 🌐 Python | 📅 2025-04-28 - Implement progress, status, caching, error handling with simple wrappers.
+* [Jobtastic](https://github.com/PolicyStat/jobtastic) ⭐ 645 | 🐛 37 | 🌐 Python | 📅 2026-10-27 - Implement progress, status, caching, error handling with simple wrappers.
 * [celery-director](https://github.com/ovh/celery-director) ⭐ 552 | 🐛 17 | 🌐 Python | 📅 2025-04-22 - YAML workflows for Celery tasks and WebUI to run them.
 * [Selinon](https://github.com/selinon/selinon) ⭐ 314 | 🐛 21 | 🌐 Python | 📅 2025-03-29 - Advanced flow control with dynamic task scheduling and declarative YAML configs.
 
@@ -58,4 +58,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
