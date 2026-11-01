@@ -14,7 +14,7 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 29,096 | 🐛 742 | 🌐 Python | 📅 2026-10-31 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 29,101 | 🐛 741 | 🌐 Python | 📅 2026-11-01 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
@@ -31,18 +31,18 @@ General Celery related items.
 * [clearly](https://github.com/rsalmei/clearly) ⭐ 411 | 🐛 8 | 🌐 Python | 📅 2022-06-07 - Console worker monitoring/inspecting/debugging.
 * [Kanchi](https://github.com/getkanchi/kanchi) ⭐ 220 | 🐛 8 | 🌐 Python | 📅 2026-10-21 - Real-time Celery task monitoring and management system with a modern web UI and WebSocket-powered live updates.
 * [Leek](https://github.com/kodless/leek) ⭐ 205 | 🐛 19 | 🌐 TypeScript | 📅 2026-06-16 - Monitoring tool that can monitor multiple brokers with a single container, unlike other tools.
-* [Celery Insights](https://github.com/danyi1212/celery-insights) ⭐ 110 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-24 - Realtime monitoring tool for Celery clusters with a modern web UI.
+* [Celery Insights](https://github.com/danyi1212/celery-insights) ⭐ 110 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-31 - Realtime monitoring tool for Celery clusters with a modern web UI.
 
 ## Analogues
 
-* [RQ](https://github.com/rq/rq) ⭐ 10,701 | 🐛 264 | 🌐 Python | 📅 2026-10-28 - Simple, lightweight, Python library for creating background jobs, and processing them.
+* [RQ](https://github.com/rq/rq) ⭐ 10,702 | 🐛 268 | 🌐 Python | 📅 2026-10-28 - Simple, lightweight, Python library for creating background jobs, and processing them.
 * [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,469 | 🐛 51 | 🌐 Python | 📅 2026-10-19 - Task management using Redis.
 * [WakaQ](https://github.com/wakatime/wakaq) ⭐ 596 | 🐛 0 | 🌐 Python | 📅 2026-05-21 - Minimalistic alternative to Celery.
 * [aiotasks](https://github.com/cr0hn/aiotasks) ⭐ 455 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - Celery-like task queue but for asyncronous functions.
 
 ## Task flow and organization
 
-* [RedBeat](https://github.com/sibson/redbeat) ⭐ 1,055 | 🐛 43 | 🌐 Python | 📅 2026-10-09 - Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
+* [RedBeat](https://github.com/sibson/redbeat) ⭐ 1,055 | 🐛 44 | 🌐 Python | 📅 2026-10-09 - Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 * [celery-once](https://github.com/cameronmaske/celery-once) ⭐ 691 | 🐛 48 | 🌐 Python | 📅 2023-08-29 - Prevent multiple execution of celery tasks.
 * [Jobtastic](https://github.com/PolicyStat/jobtastic) ⭐ 645 | 🐛 37 | 🌐 Python | 📅 2026-10-27 - Implement progress, status, caching, error handling with simple wrappers.
 * [celery-director](https://github.com/ovh/celery-director) ⭐ 552 | 🐛 17 | 🌐 Python | 📅 2025-04-22 - YAML workflows for Celery tasks and WebUI to run them.
@@ -58,4 +58,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
