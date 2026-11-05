@@ -15,11 +15,11 @@
             "id": 184460,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T14:00:48Z",
-            "open_issues": 737,
+            "last_commit": "2026-11-05T15:09:11Z",
+            "open_issues": 738,
             "owner": "celery",
             "repo": "celery",
-            "stars": 29132,
+            "stars": 29136,
             "topics": [
               "amqp",
               "python",
@@ -148,7 +148,7 @@
             "open_issues": 1,
             "owner": "codingjoe",
             "repo": "django-health-check",
-            "stars": 1427,
+            "stars": 1426,
             "topics": [
               "container",
               "django",
@@ -285,7 +285,7 @@
             "open_issues": 8,
             "owner": "rsalmei",
             "repo": "clearly",
-            "stars": 411,
+            "stars": 410,
             "topics": [
               "asynchronous",
               "celery",
@@ -318,7 +318,7 @@
             "open_issues": 8,
             "owner": "getkanchi",
             "repo": "kanchi",
-            "stars": 219,
+            "stars": 218,
             "topics": [
               "celery",
               "monitoring",
@@ -376,7 +376,7 @@
             "open_issues": 6,
             "owner": "danyi1212",
             "repo": "celery-insights",
-            "stars": 110,
+            "stars": 109,
             "topics": [
               "celery",
               "python",
@@ -437,8 +437,8 @@
             "id": 35581334,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-19T11:00:26Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-04T16:19:15Z",
+            "open_issues": 52,
             "owner": "closeio",
             "repo": "tasktiger",
             "stars": 1469,
@@ -691,7 +691,7 @@
             "open_issues": 62,
             "owner": "rusty-celery",
             "repo": "rusty-celery",
-            "stars": 875,
+            "stars": 874,
             "topics": [
               "celery",
               "celery-workers",
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T15:35:51.916Z",
+    "last_updated": "2026-11-05T15:40:31.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
