@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T03:25:06Z",
-            "open_issues": 795,
+            "open_issues": 801,
             "owner": "celery",
             "repo": "celery",
-            "stars": 29176,
+            "stars": 29185,
             "topics": [
               "amqp",
               "python",
@@ -83,10 +83,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T15:50:06Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "mher",
             "repo": "flower",
-            "stars": 7242,
+            "stars": 7244,
             "topics": [
               "administration",
               "asynchronous",
@@ -376,7 +376,7 @@
             "open_issues": 16,
             "owner": "danyi1212",
             "repo": "celery-insights",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "celery",
               "python",
@@ -404,11 +404,11 @@
             "id": 2771544,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T19:12:50Z",
-            "open_issues": 277,
+            "last_commit": "2026-11-13T02:01:54Z",
+            "open_issues": 270,
             "owner": "rq",
             "repo": "rq",
-            "stars": 10705,
+            "stars": 10704,
             "topics": [
               "async",
               "background-jobs",
@@ -441,7 +441,7 @@
             "open_issues": 51,
             "owner": "closeio",
             "repo": "tasktiger",
-            "stars": 1470,
+            "stars": 1471,
             "topics": [
               "queue",
               "worker"
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T16:05:10.501Z",
+    "last_updated": "2026-11-13T15:32:05.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
