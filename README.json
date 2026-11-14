@@ -19,7 +19,7 @@
             "open_issues": 801,
             "owner": "celery",
             "repo": "celery",
-            "stars": 29185,
+            "stars": 29194,
             "topics": [
               "amqp",
               "python",
@@ -405,7 +405,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-13T02:01:54Z",
-            "open_issues": 270,
+            "open_issues": 271,
             "owner": "rq",
             "repo": "rq",
             "stars": 10704,
@@ -535,7 +535,7 @@
             "open_issues": 46,
             "owner": "sibson",
             "repo": "redbeat",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "celery",
               "redis"
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T15:32:05.969Z",
+    "last_updated": "2026-11-14T14:21:48.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",

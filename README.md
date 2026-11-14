@@ -14,7 +14,7 @@
 
 General Celery related items.
 
-* [Celery GitHub](https://github.com/celery/celery) ⭐ 29,185 | 🐛 801 | 🌐 Python | 📅 2026-11-11 - Celery source code.
+* [Celery GitHub](https://github.com/celery/celery) ⭐ 29,194 | 🐛 801 | 🌐 Python | 📅 2026-11-11 - Celery source code.
 * [celery-tasks-checklist](https://github.com/vintasoftware/celery-tasks-checklist) ⭐ 121 | 🐛 3 | 📅 2019-10-07 - Useful checklist for building great Celery tasks.
 * [Celery documentation](https://docs.celeryq.dev/en/stable/) - Documentation on Celery Framework.
 * [Celery Pytest Plugin](https://pytest-celery.readthedocs.io) - Official pytest plugin for Celery.
@@ -35,14 +35,14 @@ General Celery related items.
 
 ## Analogues
 
-* [RQ](https://github.com/rq/rq) ⭐ 10,704 | 🐛 270 | 🌐 Python | 📅 2026-11-13 - Simple, lightweight, Python library for creating background jobs, and processing them.
+* [RQ](https://github.com/rq/rq) ⭐ 10,704 | 🐛 271 | 🌐 Python | 📅 2026-11-13 - Simple, lightweight, Python library for creating background jobs, and processing them.
 * [TaskTiger](https://github.com/closeio/tasktiger) ⭐ 1,471 | 🐛 51 | 🌐 Python | 📅 2026-11-10 - Task management using Redis.
 * [WakaQ](https://github.com/wakatime/wakaq) ⭐ 597 | 🐛 0 | 🌐 Python | 📅 2026-05-21 - Minimalistic alternative to Celery.
 * [aiotasks](https://github.com/cr0hn/aiotasks) ⭐ 456 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - Celery-like task queue but for asyncronous functions.
 
 ## Task flow and organization
 
-* [RedBeat](https://github.com/sibson/redbeat) ⭐ 1,056 | 🐛 46 | 🌐 Python | 📅 2026-10-09 - Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
+* [RedBeat](https://github.com/sibson/redbeat) ⭐ 1,057 | 🐛 46 | 🌐 Python | 📅 2026-10-09 - Celery Beat Scheduler that stores the scheduled tasks and runtime metadata in Redis.
 * [celery-once](https://github.com/cameronmaske/celery-once) ⭐ 691 | 🐛 47 | 🌐 Python | 📅 2023-08-29 - Prevent multiple execution of celery tasks.
 * [Jobtastic](https://github.com/PolicyStat/jobtastic) ⭐ 645 | 🐛 37 | 🌐 Python | 📅 2026-10-27 - Implement progress, status, caching, error handling with simple wrappers.
 * [celery-director](https://github.com/ovh/celery-director) ⭐ 553 | 🐛 17 | 🌐 Python | 📅 2025-04-22 - YAML workflows for Celery tasks and WebUI to run them.
@@ -58,4 +58,4 @@ Contributions are always welcome! Read the [contribution guidelines](contributin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
