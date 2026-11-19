@@ -15,11 +15,11 @@
             "id": 184460,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T09:35:30Z",
-            "open_issues": 815,
+            "last_commit": "2026-11-19T15:22:04Z",
+            "open_issues": 804,
             "owner": "celery",
             "repo": "celery",
-            "stars": 29225,
+            "stars": 29243,
             "topics": [
               "amqp",
               "python",
@@ -82,11 +82,11 @@
             "id": 4946406,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T15:50:06Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-19T06:22:54Z",
+            "open_issues": 43,
             "owner": "mher",
             "repo": "flower",
-            "stars": 7243,
+            "stars": 7244,
             "topics": [
               "administration",
               "asynchronous",
@@ -114,7 +114,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-17T14:41:57Z",
-            "open_issues": 156,
+            "open_issues": 157,
             "owner": "celery",
             "repo": "django-celery-beat",
             "stars": 1957,
@@ -148,7 +148,7 @@
             "open_issues": 1,
             "owner": "codingjoe",
             "repo": "django-health-check",
-            "stars": 1427,
+            "stars": 1428,
             "topics": [
               "container",
               "django",
@@ -259,7 +259,7 @@
             "open_issues": 18,
             "owner": "czue",
             "repo": "celery-progress",
-            "stars": 497,
+            "stars": 498,
             "topics": [
               "celery",
               "django",
@@ -405,10 +405,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-14T15:56:50Z",
-            "open_issues": 277,
+            "open_issues": 279,
             "owner": "rq",
             "repo": "rq",
-            "stars": 10706,
+            "stars": 10707,
             "topics": [
               "async",
               "background-jobs",
@@ -601,7 +601,7 @@
             "open_issues": 17,
             "owner": "ovh",
             "repo": "celery-director",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "celery",
               "python",
@@ -691,7 +691,7 @@
             "open_issues": 62,
             "owner": "rusty-celery",
             "repo": "rusty-celery",
-            "stars": 876,
+            "stars": 875,
             "topics": [
               "celery",
               "celery-workers",
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T16:37:20.920Z",
+    "last_updated": "2026-11-19T16:40:30.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Celery (distributed task queue)",
